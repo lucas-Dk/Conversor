@@ -15,7 +15,7 @@ def final():
 
 while True:
   #Presentação
-  print('\033[32m==\033[m' * 30)
+  print('\033[1;32m==\033[m' * 30)
   print(f'\033[1;91m{apresentacao:^57}\033[m')
   print('\033[1;32m==\033[m' * 30)
 
